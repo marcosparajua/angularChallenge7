@@ -1,0 +1,12 @@
+{
+  "pets": [
+    {
+      "id": "",
+      "imageUrl": "https://source.unsplash.com/random/?insect",
+      "name": "Wally",
+      "breed": "poodle",
+      "isAdopted": false,
+      "careGiver": "Bon Jovi"
+    }
+  ]
+}
